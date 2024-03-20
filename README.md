@@ -9,7 +9,7 @@ These instuctions will guide you on:
 1. Configure a backup repository and synchronization
 2. Configure both master and backup Jenkins server 
 3. How to use the shell scripts
-
+wwww
 ### Prerequisites
 ---
 Certain criterias must be fulfilled:
