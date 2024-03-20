@@ -15,7 +15,7 @@ wwww
 Certain criterias must be fulfilled:
 - Must have at least 3 servers for Jenkins Master, Jenkins Backup, and Jenkins Monitoring
 - Must have Git repository for doing Jenkins backup operation
-- 3 server must have SSH access to each other
+- 3 server must have SSH access to each otherttttt
 - 3 server must be able to use SSH, Git, sed, rsync commands
 - Jenkins installation path is same as default
 
